@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EnviarCorreoFirebase</string>
+    <string name="Email">Correo</string>
+    <string name="Subject">Asunto</string>
+    <string name="Message">Mensaje</string>
+    <string name="Send">Enviar</string>
+</resources>
